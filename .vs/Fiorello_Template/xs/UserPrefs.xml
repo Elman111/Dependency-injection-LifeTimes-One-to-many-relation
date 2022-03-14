@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{976AF60C-61C4-433F-A21F-2D305E5C0780}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Fiorello_Template/ViewModels/HomeVM.cs">
+    <Files>
+      <File FileName="Fiorello_Template/Views/Shared/_Layout.cshtml" Line="393" Column="8" IsPinned="True" />
+      <File FileName="Fiorello_Template/Program.cs" />
+      <File FileName="Fiorello_Template/Startup.cs" />
+      <File FileName="Fiorello_Template/Data/AppDbContext.cs" />
+      <File FileName="Fiorello_Template/Views/_Layout.cshtml" />
+      <File FileName="Fiorello_Template/Properties/launchSettings.json" />
+      <File FileName="Fiorello_Template/ViewModels/HomeVM.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Fiorello_Template" expanded="True">
+            <Node name="Fiorello_Template" expanded="True">
+              <Node name="ViewModels" expanded="True">
+                <Node name="HomeVM.cs" selected="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Fiorello__Template PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
